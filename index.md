@@ -1,91 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Longvd's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Vũ Đức Long
+
+Business, IT specialist, DevSecOps enthusiastic.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vuduclong2005@gmail.com">vuduclong2005@gmail.com</a>
+| <a href="http://www.longvd.id.vn/">My blog page</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+`2013 - present`
+Doing my SME business
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Distribution, Topping Cream, Cake decoration, Cake box
 
+## Experience
 
-### Research interests
+`2009 - 2012`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Chief Planning Officer (province)
 
+Metfone Pte., Ltd
+
+### Specialized in
+
+Planning, Scheduling ,Reporting, Stock management
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004-2009`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Hanoi University of Scient and Technology, Hanoi.**
 
-- Sizar
+## Certifications
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2023`
+Google IT support
 
-- Fellow
+Google Career Certificates, Coursera
 
+`2023`
+Google IT Automation with Python
 
+Google Career Certificates, Coursera
 
-## Awards
+`2023`
+Google Project Management
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Google Career Certificates, Coursera
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: May 2023 -->
